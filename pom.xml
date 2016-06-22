@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.sqa.av</groupId>
-	<artifactId>maven-project</artifactId>
+	<artifactId>craigslist-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Maven Project</name>
-	<description>A Basic Maven Project</description>
+	<name>Craigslist Project</name>
+	<description>An Auto Project for Craigslist</description>
 	<dependencies>
 
 			<dependency>

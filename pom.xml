@@ -4,7 +4,7 @@
 	<groupId>com.sqa.av</groupId>
 	<artifactId>craigslist-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Maven Project</name>
+	<name>Craigslist Project</name>
 	<description>An Auto Project for Craigslist</description>
 	<dependencies>
 
